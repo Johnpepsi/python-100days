@@ -1,3 +1,5 @@
+# Learning: How to use the Random numbers
+
 print("Welcome to the Head and Tails Guessing Game! \n")
 
 import random
