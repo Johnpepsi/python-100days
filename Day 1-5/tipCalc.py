@@ -1,3 +1,5 @@
+# Learning: By using function and operators
+
 print("Welcome to the tip Calculator")
 #If the bill was $150.00, split between 5 people, with 12% tip. 
 bill = float(input("What was the total bill? $"))
