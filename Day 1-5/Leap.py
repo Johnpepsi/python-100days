@@ -1,4 +1,6 @@
+# Learning: How to use if else in Python
 # Which year do you want to check?
+
 print("Welcome to the Leap Year Checker! \n")
 year = int(input("Enter a Year: "))
 
