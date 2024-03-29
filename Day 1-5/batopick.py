@@ -37,6 +37,8 @@ print(game_icons[user_choice])
 computer_choice = random.randint(0,2)
 print(f"Computer choice {computer_choice}")
 
+print(game_icons[computer_choice])
+
 if user_choice == 0 and computer_choice == 2:
   print("You win Champ!")
   print(scissors)
